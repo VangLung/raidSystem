@@ -1,0 +1,7 @@
+#!/bin/bash
+ 
+cd xv6-riscv-os2-rsicv-raid
+./compile
+
+
+
