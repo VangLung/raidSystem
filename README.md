@@ -1,2 +1,2 @@
 # raidSystem
-project for operative systems 2 class
+project for operating systems 2 class
